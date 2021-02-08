@@ -1,0 +1,13 @@
+C:\Users\Ehlimana\source\repos\PrvaKonzolnaAplikacija\PrvaKonzolnaAplikacija\bin\Debug\netcoreapp3.1\PrvaKonzolnaAplikacija.exe
+C:\Users\Ehlimana\source\repos\PrvaKonzolnaAplikacija\PrvaKonzolnaAplikacija\bin\Debug\netcoreapp3.1\PrvaKonzolnaAplikacija.deps.json
+C:\Users\Ehlimana\source\repos\PrvaKonzolnaAplikacija\PrvaKonzolnaAplikacija\bin\Debug\netcoreapp3.1\PrvaKonzolnaAplikacija.runtimeconfig.json
+C:\Users\Ehlimana\source\repos\PrvaKonzolnaAplikacija\PrvaKonzolnaAplikacija\bin\Debug\netcoreapp3.1\PrvaKonzolnaAplikacija.runtimeconfig.dev.json
+C:\Users\Ehlimana\source\repos\PrvaKonzolnaAplikacija\PrvaKonzolnaAplikacija\bin\Debug\netcoreapp3.1\PrvaKonzolnaAplikacija.dll
+C:\Users\Ehlimana\source\repos\PrvaKonzolnaAplikacija\PrvaKonzolnaAplikacija\bin\Debug\netcoreapp3.1\PrvaKonzolnaAplikacija.pdb
+C:\Users\Ehlimana\source\repos\PrvaKonzolnaAplikacija\PrvaKonzolnaAplikacija\obj\Debug\netcoreapp3.1\PrvaKonzolnaAplikacija.csprojAssemblyReference.cache
+C:\Users\Ehlimana\source\repos\PrvaKonzolnaAplikacija\PrvaKonzolnaAplikacija\obj\Debug\netcoreapp3.1\PrvaKonzolnaAplikacija.AssemblyInfoInputs.cache
+C:\Users\Ehlimana\source\repos\PrvaKonzolnaAplikacija\PrvaKonzolnaAplikacija\obj\Debug\netcoreapp3.1\PrvaKonzolnaAplikacija.AssemblyInfo.cs
+C:\Users\Ehlimana\source\repos\PrvaKonzolnaAplikacija\PrvaKonzolnaAplikacija\obj\Debug\netcoreapp3.1\PrvaKonzolnaAplikacija.csproj.CoreCompileInputs.cache
+C:\Users\Ehlimana\source\repos\PrvaKonzolnaAplikacija\PrvaKonzolnaAplikacija\obj\Debug\netcoreapp3.1\PrvaKonzolnaAplikacija.dll
+C:\Users\Ehlimana\source\repos\PrvaKonzolnaAplikacija\PrvaKonzolnaAplikacija\obj\Debug\netcoreapp3.1\PrvaKonzolnaAplikacija.pdb
+C:\Users\Ehlimana\source\repos\PrvaKonzolnaAplikacija\PrvaKonzolnaAplikacija\obj\Debug\netcoreapp3.1\PrvaKonzolnaAplikacija.genruntimeconfig.cache
