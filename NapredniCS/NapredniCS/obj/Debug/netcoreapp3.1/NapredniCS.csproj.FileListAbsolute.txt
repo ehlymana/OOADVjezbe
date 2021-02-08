@@ -1,0 +1,13 @@
+C:\Users\Ehlimana\source\repos\NapredniCS\NapredniCS\bin\Debug\netcoreapp3.1\NapredniCS.exe
+C:\Users\Ehlimana\source\repos\NapredniCS\NapredniCS\bin\Debug\netcoreapp3.1\NapredniCS.deps.json
+C:\Users\Ehlimana\source\repos\NapredniCS\NapredniCS\bin\Debug\netcoreapp3.1\NapredniCS.runtimeconfig.json
+C:\Users\Ehlimana\source\repos\NapredniCS\NapredniCS\bin\Debug\netcoreapp3.1\NapredniCS.runtimeconfig.dev.json
+C:\Users\Ehlimana\source\repos\NapredniCS\NapredniCS\bin\Debug\netcoreapp3.1\NapredniCS.dll
+C:\Users\Ehlimana\source\repos\NapredniCS\NapredniCS\bin\Debug\netcoreapp3.1\NapredniCS.pdb
+C:\Users\Ehlimana\source\repos\NapredniCS\NapredniCS\obj\Debug\netcoreapp3.1\NapredniCS.csprojAssemblyReference.cache
+C:\Users\Ehlimana\source\repos\NapredniCS\NapredniCS\obj\Debug\netcoreapp3.1\NapredniCS.AssemblyInfoInputs.cache
+C:\Users\Ehlimana\source\repos\NapredniCS\NapredniCS\obj\Debug\netcoreapp3.1\NapredniCS.AssemblyInfo.cs
+C:\Users\Ehlimana\source\repos\NapredniCS\NapredniCS\obj\Debug\netcoreapp3.1\NapredniCS.csproj.CoreCompileInputs.cache
+C:\Users\Ehlimana\source\repos\NapredniCS\NapredniCS\obj\Debug\netcoreapp3.1\NapredniCS.dll
+C:\Users\Ehlimana\source\repos\NapredniCS\NapredniCS\obj\Debug\netcoreapp3.1\NapredniCS.pdb
+C:\Users\Ehlimana\source\repos\NapredniCS\NapredniCS\obj\Debug\netcoreapp3.1\NapredniCS.genruntimeconfig.cache

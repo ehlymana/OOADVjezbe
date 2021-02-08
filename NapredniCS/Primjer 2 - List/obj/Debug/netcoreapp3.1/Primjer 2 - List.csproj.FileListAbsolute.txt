@@ -1,0 +1,13 @@
+C:\Users\Ehlimana\source\repos\NapredniCS\Primjer 2 - List\bin\Debug\netcoreapp3.1\Primjer 2 - List.exe
+C:\Users\Ehlimana\source\repos\NapredniCS\Primjer 2 - List\bin\Debug\netcoreapp3.1\Primjer 2 - List.deps.json
+C:\Users\Ehlimana\source\repos\NapredniCS\Primjer 2 - List\bin\Debug\netcoreapp3.1\Primjer 2 - List.runtimeconfig.json
+C:\Users\Ehlimana\source\repos\NapredniCS\Primjer 2 - List\bin\Debug\netcoreapp3.1\Primjer 2 - List.runtimeconfig.dev.json
+C:\Users\Ehlimana\source\repos\NapredniCS\Primjer 2 - List\bin\Debug\netcoreapp3.1\Primjer 2 - List.dll
+C:\Users\Ehlimana\source\repos\NapredniCS\Primjer 2 - List\bin\Debug\netcoreapp3.1\Primjer 2 - List.pdb
+C:\Users\Ehlimana\source\repos\NapredniCS\Primjer 2 - List\obj\Debug\netcoreapp3.1\Primjer 2 - List.csprojAssemblyReference.cache
+C:\Users\Ehlimana\source\repos\NapredniCS\Primjer 2 - List\obj\Debug\netcoreapp3.1\Primjer 2 - List.AssemblyInfoInputs.cache
+C:\Users\Ehlimana\source\repos\NapredniCS\Primjer 2 - List\obj\Debug\netcoreapp3.1\Primjer 2 - List.AssemblyInfo.cs
+C:\Users\Ehlimana\source\repos\NapredniCS\Primjer 2 - List\obj\Debug\netcoreapp3.1\Primjer 2 - List.csproj.CoreCompileInputs.cache
+C:\Users\Ehlimana\source\repos\NapredniCS\Primjer 2 - List\obj\Debug\netcoreapp3.1\Primjer 2 - List.dll
+C:\Users\Ehlimana\source\repos\NapredniCS\Primjer 2 - List\obj\Debug\netcoreapp3.1\Primjer 2 - List.pdb
+C:\Users\Ehlimana\source\repos\NapredniCS\Primjer 2 - List\obj\Debug\netcoreapp3.1\Primjer 2 - List.genruntimeconfig.cache
