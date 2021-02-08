@@ -1,0 +1,25 @@
+C:\Users\Ehlimana\source\repos\NapredniCS\NapredniCS\bin\Debug\netcoreapp3.1\Primjer 1 - Tuple.exe
+C:\Users\Ehlimana\source\repos\NapredniCS\NapredniCS\bin\Debug\netcoreapp3.1\Primjer 1 - Tuple.deps.json
+C:\Users\Ehlimana\source\repos\NapredniCS\NapredniCS\bin\Debug\netcoreapp3.1\Primjer 1 - Tuple.runtimeconfig.json
+C:\Users\Ehlimana\source\repos\NapredniCS\NapredniCS\bin\Debug\netcoreapp3.1\Primjer 1 - Tuple.runtimeconfig.dev.json
+C:\Users\Ehlimana\source\repos\NapredniCS\NapredniCS\bin\Debug\netcoreapp3.1\Primjer 1 - Tuple.dll
+C:\Users\Ehlimana\source\repos\NapredniCS\NapredniCS\bin\Debug\netcoreapp3.1\Primjer 1 - Tuple.pdb
+C:\Users\Ehlimana\source\repos\NapredniCS\NapredniCS\obj\Debug\netcoreapp3.1\Primjer 1 - Tuple.AssemblyInfoInputs.cache
+C:\Users\Ehlimana\source\repos\NapredniCS\NapredniCS\obj\Debug\netcoreapp3.1\Primjer 1 - Tuple.AssemblyInfo.cs
+C:\Users\Ehlimana\source\repos\NapredniCS\NapredniCS\obj\Debug\netcoreapp3.1\Primjer 1 - Tuple.csproj.CoreCompileInputs.cache
+C:\Users\Ehlimana\source\repos\NapredniCS\NapredniCS\obj\Debug\netcoreapp3.1\Primjer 1 - Tuple.dll
+C:\Users\Ehlimana\source\repos\NapredniCS\NapredniCS\obj\Debug\netcoreapp3.1\Primjer 1 - Tuple.pdb
+C:\Users\Ehlimana\source\repos\NapredniCS\NapredniCS\obj\Debug\netcoreapp3.1\Primjer 1 - Tuple.genruntimeconfig.cache
+C:\Users\Ehlimana\Documents\GitHub\OOADVjezbe\NapredniCS\Primjer 1 - Tuple\bin\Debug\netcoreapp3.1\Primjer 1 - Tuple.exe
+C:\Users\Ehlimana\Documents\GitHub\OOADVjezbe\NapredniCS\Primjer 1 - Tuple\bin\Debug\netcoreapp3.1\Primjer 1 - Tuple.deps.json
+C:\Users\Ehlimana\Documents\GitHub\OOADVjezbe\NapredniCS\Primjer 1 - Tuple\bin\Debug\netcoreapp3.1\Primjer 1 - Tuple.runtimeconfig.json
+C:\Users\Ehlimana\Documents\GitHub\OOADVjezbe\NapredniCS\Primjer 1 - Tuple\bin\Debug\netcoreapp3.1\Primjer 1 - Tuple.runtimeconfig.dev.json
+C:\Users\Ehlimana\Documents\GitHub\OOADVjezbe\NapredniCS\Primjer 1 - Tuple\bin\Debug\netcoreapp3.1\Primjer 1 - Tuple.dll
+C:\Users\Ehlimana\Documents\GitHub\OOADVjezbe\NapredniCS\Primjer 1 - Tuple\bin\Debug\netcoreapp3.1\Primjer 1 - Tuple.pdb
+C:\Users\Ehlimana\Documents\GitHub\OOADVjezbe\NapredniCS\Primjer 1 - Tuple\obj\Debug\netcoreapp3.1\Primjer 1 - Tuple.csprojAssemblyReference.cache
+C:\Users\Ehlimana\Documents\GitHub\OOADVjezbe\NapredniCS\Primjer 1 - Tuple\obj\Debug\netcoreapp3.1\Primjer 1 - Tuple.AssemblyInfoInputs.cache
+C:\Users\Ehlimana\Documents\GitHub\OOADVjezbe\NapredniCS\Primjer 1 - Tuple\obj\Debug\netcoreapp3.1\Primjer 1 - Tuple.AssemblyInfo.cs
+C:\Users\Ehlimana\Documents\GitHub\OOADVjezbe\NapredniCS\Primjer 1 - Tuple\obj\Debug\netcoreapp3.1\Primjer 1 - Tuple.csproj.CoreCompileInputs.cache
+C:\Users\Ehlimana\Documents\GitHub\OOADVjezbe\NapredniCS\Primjer 1 - Tuple\obj\Debug\netcoreapp3.1\Primjer 1 - Tuple.dll
+C:\Users\Ehlimana\Documents\GitHub\OOADVjezbe\NapredniCS\Primjer 1 - Tuple\obj\Debug\netcoreapp3.1\Primjer 1 - Tuple.pdb
+C:\Users\Ehlimana\Documents\GitHub\OOADVjezbe\NapredniCS\Primjer 1 - Tuple\obj\Debug\netcoreapp3.1\Primjer 1 - Tuple.genruntimeconfig.cache

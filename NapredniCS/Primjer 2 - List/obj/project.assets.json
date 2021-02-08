@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ehlimana\\source\\repos\\NapredniCS\\Primjer 2 - List\\Primjer 2 - List.csproj",
+      "projectUniqueName": "C:\\Users\\Ehlimana\\Documents\\GitHub\\OOADVjezbe\\NapredniCS\\Primjer 2 - List\\Primjer 2 - List.csproj",
       "projectName": "Primjer 2 - List",
-      "projectPath": "C:\\Users\\Ehlimana\\source\\repos\\NapredniCS\\Primjer 2 - List\\Primjer 2 - List.csproj",
+      "projectPath": "C:\\Users\\Ehlimana\\Documents\\GitHub\\OOADVjezbe\\NapredniCS\\Primjer 2 - List\\Primjer 2 - List.csproj",
       "packagesPath": "C:\\Users\\Ehlimana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ehlimana\\source\\repos\\NapredniCS\\Primjer 2 - List\\obj\\",
+      "outputPath": "C:\\Users\\Ehlimana\\Documents\\GitHub\\OOADVjezbe\\NapredniCS\\Primjer 2 - List\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ehlimana\\AppData\\Roaming\\NuGet\\NuGet.Config",

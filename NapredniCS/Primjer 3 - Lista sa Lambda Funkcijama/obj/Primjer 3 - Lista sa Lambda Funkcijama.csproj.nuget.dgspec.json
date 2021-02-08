@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ehlimana\\source\\repos\\NapredniCS\\Primjer 3 - Lista sa Lambda Funkcijama\\Primjer 3 - Lista sa Lambda Funkcijama.csproj": {}
+    "C:\\Users\\Ehlimana\\Documents\\GitHub\\OOADVjezbe\\NapredniCS\\Primjer 3 - Lista sa Lambda Funkcijama\\Primjer 3 - Lista sa Lambda Funkcijama.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ehlimana\\source\\repos\\NapredniCS\\Primjer 3 - Lista sa Lambda Funkcijama\\Primjer 3 - Lista sa Lambda Funkcijama.csproj": {
+    "C:\\Users\\Ehlimana\\Documents\\GitHub\\OOADVjezbe\\NapredniCS\\Primjer 3 - Lista sa Lambda Funkcijama\\Primjer 3 - Lista sa Lambda Funkcijama.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ehlimana\\source\\repos\\NapredniCS\\Primjer 3 - Lista sa Lambda Funkcijama\\Primjer 3 - Lista sa Lambda Funkcijama.csproj",
+        "projectUniqueName": "C:\\Users\\Ehlimana\\Documents\\GitHub\\OOADVjezbe\\NapredniCS\\Primjer 3 - Lista sa Lambda Funkcijama\\Primjer 3 - Lista sa Lambda Funkcijama.csproj",
         "projectName": "Primjer 3 - Lista sa Lambda Funkcijama",
-        "projectPath": "C:\\Users\\Ehlimana\\source\\repos\\NapredniCS\\Primjer 3 - Lista sa Lambda Funkcijama\\Primjer 3 - Lista sa Lambda Funkcijama.csproj",
+        "projectPath": "C:\\Users\\Ehlimana\\Documents\\GitHub\\OOADVjezbe\\NapredniCS\\Primjer 3 - Lista sa Lambda Funkcijama\\Primjer 3 - Lista sa Lambda Funkcijama.csproj",
         "packagesPath": "C:\\Users\\Ehlimana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ehlimana\\source\\repos\\NapredniCS\\Primjer 3 - Lista sa Lambda Funkcijama\\obj\\",
+        "outputPath": "C:\\Users\\Ehlimana\\Documents\\GitHub\\OOADVjezbe\\NapredniCS\\Primjer 3 - Lista sa Lambda Funkcijama\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ehlimana\\AppData\\Roaming\\NuGet\\NuGet.Config",

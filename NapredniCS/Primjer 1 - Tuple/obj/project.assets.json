@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ehlimana\\source\\repos\\NapredniCS\\NapredniCS\\Primjer 1 - Tuple.csproj",
+      "projectUniqueName": "C:\\Users\\Ehlimana\\Documents\\GitHub\\OOADVjezbe\\NapredniCS\\Primjer 1 - Tuple\\Primjer 1 - Tuple.csproj",
       "projectName": "Primjer 1 - Tuple",
-      "projectPath": "C:\\Users\\Ehlimana\\source\\repos\\NapredniCS\\NapredniCS\\Primjer 1 - Tuple.csproj",
+      "projectPath": "C:\\Users\\Ehlimana\\Documents\\GitHub\\OOADVjezbe\\NapredniCS\\Primjer 1 - Tuple\\Primjer 1 - Tuple.csproj",
       "packagesPath": "C:\\Users\\Ehlimana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ehlimana\\source\\repos\\NapredniCS\\NapredniCS\\obj\\",
+      "outputPath": "C:\\Users\\Ehlimana\\Documents\\GitHub\\OOADVjezbe\\NapredniCS\\Primjer 1 - Tuple\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ehlimana\\AppData\\Roaming\\NuGet\\NuGet.Config",
