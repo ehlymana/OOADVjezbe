@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kDO3DoED9ey+oM3QIoMq6H9U1o6hp0bwI8qjETPT7b94dN0evtAgxH+bQaKARjQOtIGyxSmBHG1We7VDv5Ee3Q==",
+  "dgSpecHash": "HriPeb3/KWv3YDimjL/tkspoimcJgAsnCrjrVO+HMDrb8zDHOAjs4FZPaR1RKbOCm7RdpKTkyQy2Txkj+H8CHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ehlimana\\Documents\\GitHub\\OOADVjezbe\\StudentskaSluzbaBaza\\StudentskaSluzba\\StudentskaSluzba.csproj",
+  "projectFilePath": "C:\\Users\\Ehlimana\\Desktop\\StudentskaSluzbaBaza\\StudentskaSluzba\\StudentskaSluzba.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ehlimana\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\Ehlimana\\.nuget\\packages\\google.protobuf\\3.11.4\\google.protobuf.3.11.4.nupkg.sha512",
