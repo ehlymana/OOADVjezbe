@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ehlimana\\Downloads\\OOADVjezbe-lv8\\OOADVjezbe-lv8\\StudentskaSluzbaBaza\\StudentskaSluzba\\StudentskaSluzba.csproj": {}
+    "C:\\Users\\Ehlimana\\Documents\\GitHub\\OOADVjezbe\\StudentskaSluzbaBaza\\StudentskaSluzba\\StudentskaSluzba.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ehlimana\\Downloads\\OOADVjezbe-lv8\\OOADVjezbe-lv8\\StudentskaSluzbaBaza\\StudentskaSluzba\\StudentskaSluzba.csproj": {
+    "C:\\Users\\Ehlimana\\Documents\\GitHub\\OOADVjezbe\\StudentskaSluzbaBaza\\StudentskaSluzba\\StudentskaSluzba.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ehlimana\\Downloads\\OOADVjezbe-lv8\\OOADVjezbe-lv8\\StudentskaSluzbaBaza\\StudentskaSluzba\\StudentskaSluzba.csproj",
+        "projectUniqueName": "C:\\Users\\Ehlimana\\Documents\\GitHub\\OOADVjezbe\\StudentskaSluzbaBaza\\StudentskaSluzba\\StudentskaSluzba.csproj",
         "projectName": "StudentskaSluzba",
-        "projectPath": "C:\\Users\\Ehlimana\\Downloads\\OOADVjezbe-lv8\\OOADVjezbe-lv8\\StudentskaSluzbaBaza\\StudentskaSluzba\\StudentskaSluzba.csproj",
+        "projectPath": "C:\\Users\\Ehlimana\\Documents\\GitHub\\OOADVjezbe\\StudentskaSluzbaBaza\\StudentskaSluzba\\StudentskaSluzba.csproj",
         "packagesPath": "C:\\Users\\Ehlimana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ehlimana\\Downloads\\OOADVjezbe-lv8\\OOADVjezbe-lv8\\StudentskaSluzbaBaza\\StudentskaSluzba\\obj\\",
+        "outputPath": "C:\\Users\\Ehlimana\\Documents\\GitHub\\OOADVjezbe\\StudentskaSluzbaBaza\\StudentskaSluzba\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ehlimana\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -38,6 +38,16 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[3.1.11, )"
