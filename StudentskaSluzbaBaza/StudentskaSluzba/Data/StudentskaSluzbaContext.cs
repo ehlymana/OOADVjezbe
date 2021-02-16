@@ -17,6 +17,7 @@ namespace StudentskaSluzba.Data
         public DbSet<Student> Student { get; set; }
         public DbSet<UpisNaPredmet> UpisNaPredmet { get; set; }
         public DbSet<Predmet> Predmet { get; set; }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Student>().ToTable("Student");

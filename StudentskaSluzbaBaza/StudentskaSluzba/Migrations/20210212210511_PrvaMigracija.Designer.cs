@@ -9,15 +9,15 @@ using StudentskaSluzba.Data;
 namespace StudentskaSluzba.Migrations
 {
     [DbContext(typeof(StudentskaSluzbaContext))]
-    [Migration("20210216124744_PrvaMigracija")]
+    [Migration("20210212210511_PrvaMigracija")]
     partial class PrvaMigracija
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("Relational:MaxIdentifierLength", 64)
-                .HasAnnotation("ProductVersion", "5.0.3");
+                .HasAnnotation("ProductVersion", "3.1.11")
+                .HasAnnotation("Relational:MaxIdentifierLength", 64);
 
             modelBuilder.Entity("StudentskaSluzba.Models.Predmet", b =>
                 {
@@ -30,8 +30,8 @@ namespace StudentskaSluzba.Migrations
 
                     b.Property<string>("Naziv")
                         .IsRequired()
-                        .HasMaxLength(50)
-                        .HasColumnType("varchar(50)");
+                        .HasColumnType("varchar(50)")
+                        .HasMaxLength(50);
 
                     b.HasKey("ID");
 

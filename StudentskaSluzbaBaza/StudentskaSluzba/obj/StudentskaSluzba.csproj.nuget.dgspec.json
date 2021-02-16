@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ehlimana\\Desktop\\StudentskaSluzbaBaza\\StudentskaSluzba\\StudentskaSluzba.csproj": {}
+    "D:\\D\\Ehlimana\\Documents\\OOAD\\Vježbe 2020-2021\\Laboratorijska Vježba 8. (ASP.NET Core MVC - Perzistencija Podataka)\\StudentskaSluzbaBaza\\StudentskaSluzba\\StudentskaSluzba.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ehlimana\\Desktop\\StudentskaSluzbaBaza\\StudentskaSluzba\\StudentskaSluzba.csproj": {
+    "D:\\D\\Ehlimana\\Documents\\OOAD\\Vježbe 2020-2021\\Laboratorijska Vježba 8. (ASP.NET Core MVC - Perzistencija Podataka)\\StudentskaSluzbaBaza\\StudentskaSluzba\\StudentskaSluzba.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ehlimana\\Desktop\\StudentskaSluzbaBaza\\StudentskaSluzba\\StudentskaSluzba.csproj",
+        "projectUniqueName": "D:\\D\\Ehlimana\\Documents\\OOAD\\Vježbe 2020-2021\\Laboratorijska Vježba 8. (ASP.NET Core MVC - Perzistencija Podataka)\\StudentskaSluzbaBaza\\StudentskaSluzba\\StudentskaSluzba.csproj",
         "projectName": "StudentskaSluzba",
-        "projectPath": "C:\\Users\\Ehlimana\\Desktop\\StudentskaSluzbaBaza\\StudentskaSluzba\\StudentskaSluzba.csproj",
+        "projectPath": "D:\\D\\Ehlimana\\Documents\\OOAD\\Vježbe 2020-2021\\Laboratorijska Vježba 8. (ASP.NET Core MVC - Perzistencija Podataka)\\StudentskaSluzbaBaza\\StudentskaSluzba\\StudentskaSluzba.csproj",
         "packagesPath": "C:\\Users\\Ehlimana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ehlimana\\Desktop\\StudentskaSluzbaBaza\\StudentskaSluzba\\obj\\",
+        "outputPath": "D:\\D\\Ehlimana\\Documents\\OOAD\\Vježbe 2020-2021\\Laboratorijska Vježba 8. (ASP.NET Core MVC - Perzistencija Podataka)\\StudentskaSluzbaBaza\\StudentskaSluzba\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ehlimana\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -38,16 +38,6 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[5.0.3, )"
-            },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[5.0.3, )"
-            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[3.1.11, )"
@@ -66,9 +56,9 @@
               "target": "Package",
               "version": "[3.1.5, )"
             },
-            "MySql.EntityFrameworkCore": {
+            "MySql.Data.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.0-m8.0.23, )"
+              "version": "[8.0.22, )"
             }
           },
           "imports": [
