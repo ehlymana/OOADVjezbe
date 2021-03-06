@@ -1,0 +1,13 @@
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Fasada\bin\Debug\netcoreapp3.1\Fasada.exe
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Fasada\bin\Debug\netcoreapp3.1\Fasada.deps.json
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Fasada\bin\Debug\netcoreapp3.1\Fasada.runtimeconfig.json
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Fasada\bin\Debug\netcoreapp3.1\Fasada.runtimeconfig.dev.json
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Fasada\bin\Debug\netcoreapp3.1\Fasada.dll
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Fasada\bin\Debug\netcoreapp3.1\Fasada.pdb
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Fasada\obj\Debug\netcoreapp3.1\Fasada.csprojAssemblyReference.cache
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Fasada\obj\Debug\netcoreapp3.1\Fasada.AssemblyInfoInputs.cache
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Fasada\obj\Debug\netcoreapp3.1\Fasada.AssemblyInfo.cs
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Fasada\obj\Debug\netcoreapp3.1\Fasada.csproj.CoreCompileInputs.cache
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Fasada\obj\Debug\netcoreapp3.1\Fasada.dll
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Fasada\obj\Debug\netcoreapp3.1\Fasada.pdb
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Fasada\obj\Debug\netcoreapp3.1\Fasada.genruntimeconfig.cache

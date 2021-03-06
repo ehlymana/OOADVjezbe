@@ -1,0 +1,12 @@
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Proxy\bin\Debug\netcoreapp3.1\Proxy.exe
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Proxy\bin\Debug\netcoreapp3.1\Proxy.deps.json
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.json
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.dev.json
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Proxy\bin\Debug\netcoreapp3.1\Proxy.dll
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Proxy\bin\Debug\netcoreapp3.1\Proxy.pdb
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfoInputs.cache
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfo.cs
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Proxy\obj\Debug\netcoreapp3.1\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Proxy\obj\Debug\netcoreapp3.1\Proxy.dll
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Proxy\obj\Debug\netcoreapp3.1\Proxy.pdb
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Proxy\obj\Debug\netcoreapp3.1\Proxy.genruntimeconfig.cache

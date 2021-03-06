@@ -1,0 +1,13 @@
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Dekorater\bin\Debug\netcoreapp3.1\Dekorater.exe
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Dekorater\bin\Debug\netcoreapp3.1\Dekorater.deps.json
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Dekorater\bin\Debug\netcoreapp3.1\Dekorater.runtimeconfig.json
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Dekorater\bin\Debug\netcoreapp3.1\Dekorater.runtimeconfig.dev.json
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Dekorater\bin\Debug\netcoreapp3.1\Dekorater.dll
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Dekorater\bin\Debug\netcoreapp3.1\Dekorater.pdb
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Dekorater\obj\Debug\netcoreapp3.1\Dekorater.csprojAssemblyReference.cache
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Dekorater\obj\Debug\netcoreapp3.1\Dekorater.AssemblyInfoInputs.cache
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Dekorater\obj\Debug\netcoreapp3.1\Dekorater.AssemblyInfo.cs
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Dekorater\obj\Debug\netcoreapp3.1\Dekorater.csproj.CoreCompileInputs.cache
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Dekorater\obj\Debug\netcoreapp3.1\Dekorater.dll
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Dekorater\obj\Debug\netcoreapp3.1\Dekorater.pdb
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Dekorater\obj\Debug\netcoreapp3.1\Dekorater.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Kompozitni\bin\Debug\netcoreapp3.1\Kompozitni.exe
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Kompozitni\bin\Debug\netcoreapp3.1\Kompozitni.deps.json
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Kompozitni\bin\Debug\netcoreapp3.1\Kompozitni.runtimeconfig.json
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Kompozitni\bin\Debug\netcoreapp3.1\Kompozitni.runtimeconfig.dev.json
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Kompozitni\bin\Debug\netcoreapp3.1\Kompozitni.dll
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Kompozitni\bin\Debug\netcoreapp3.1\Kompozitni.pdb
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Kompozitni\obj\Debug\netcoreapp3.1\Kompozitni.AssemblyInfoInputs.cache
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Kompozitni\obj\Debug\netcoreapp3.1\Kompozitni.AssemblyInfo.cs
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Kompozitni\obj\Debug\netcoreapp3.1\Kompozitni.csproj.CoreCompileInputs.cache
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Kompozitni\obj\Debug\netcoreapp3.1\Kompozitni.dll
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Kompozitni\obj\Debug\netcoreapp3.1\Kompozitni.pdb
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Kompozitni\obj\Debug\netcoreapp3.1\Kompozitni.genruntimeconfig.cache

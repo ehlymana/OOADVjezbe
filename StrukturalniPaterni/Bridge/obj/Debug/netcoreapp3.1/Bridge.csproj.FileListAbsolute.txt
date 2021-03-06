@@ -1,0 +1,13 @@
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Bridge\bin\Debug\netcoreapp3.1\Bridge.exe
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Bridge\bin\Debug\netcoreapp3.1\Bridge.deps.json
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Bridge\bin\Debug\netcoreapp3.1\Bridge.runtimeconfig.json
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Bridge\bin\Debug\netcoreapp3.1\Bridge.runtimeconfig.dev.json
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Bridge\bin\Debug\netcoreapp3.1\Bridge.dll
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Bridge\bin\Debug\netcoreapp3.1\Bridge.pdb
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Bridge\obj\Debug\netcoreapp3.1\Bridge.csprojAssemblyReference.cache
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Bridge\obj\Debug\netcoreapp3.1\Bridge.AssemblyInfoInputs.cache
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Bridge\obj\Debug\netcoreapp3.1\Bridge.AssemblyInfo.cs
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Bridge\obj\Debug\netcoreapp3.1\Bridge.csproj.CoreCompileInputs.cache
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Bridge\obj\Debug\netcoreapp3.1\Bridge.dll
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Bridge\obj\Debug\netcoreapp3.1\Bridge.pdb
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Bridge\obj\Debug\netcoreapp3.1\Bridge.genruntimeconfig.cache

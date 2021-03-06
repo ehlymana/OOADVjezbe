@@ -1,0 +1,12 @@
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.exe
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.deps.json
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.runtimeconfig.json
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.runtimeconfig.dev.json
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.dll
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.pdb
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.AssemblyInfoInputs.cache
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.AssemblyInfo.cs
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.csproj.CoreCompileInputs.cache
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.dll
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.pdb
+C:\Users\Ehlimana\source\repos\StrukturalniPaterni\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.genruntimeconfig.cache
