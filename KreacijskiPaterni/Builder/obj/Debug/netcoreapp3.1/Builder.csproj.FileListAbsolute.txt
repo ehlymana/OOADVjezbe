@@ -1,0 +1,12 @@
+C:\Users\Ehlimana\source\repos\KreacijskiPaterni\Builder\bin\Debug\netcoreapp3.1\Builder.exe
+C:\Users\Ehlimana\source\repos\KreacijskiPaterni\Builder\bin\Debug\netcoreapp3.1\Builder.deps.json
+C:\Users\Ehlimana\source\repos\KreacijskiPaterni\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.json
+C:\Users\Ehlimana\source\repos\KreacijskiPaterni\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.dev.json
+C:\Users\Ehlimana\source\repos\KreacijskiPaterni\Builder\bin\Debug\netcoreapp3.1\Builder.dll
+C:\Users\Ehlimana\source\repos\KreacijskiPaterni\Builder\bin\Debug\netcoreapp3.1\Builder.pdb
+C:\Users\Ehlimana\source\repos\KreacijskiPaterni\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfoInputs.cache
+C:\Users\Ehlimana\source\repos\KreacijskiPaterni\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfo.cs
+C:\Users\Ehlimana\source\repos\KreacijskiPaterni\Builder\obj\Debug\netcoreapp3.1\Builder.csproj.CoreCompileInputs.cache
+C:\Users\Ehlimana\source\repos\KreacijskiPaterni\Builder\obj\Debug\netcoreapp3.1\Builder.dll
+C:\Users\Ehlimana\source\repos\KreacijskiPaterni\Builder\obj\Debug\netcoreapp3.1\Builder.pdb
+C:\Users\Ehlimana\source\repos\KreacijskiPaterni\Builder\obj\Debug\netcoreapp3.1\Builder.genruntimeconfig.cache

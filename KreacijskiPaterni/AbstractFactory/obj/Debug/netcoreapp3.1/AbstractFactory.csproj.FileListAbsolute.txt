@@ -1,0 +1,12 @@
+C:\Users\Ehlimana\source\repos\KreacijskiPaterni\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.exe
+C:\Users\Ehlimana\source\repos\KreacijskiPaterni\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.deps.json
+C:\Users\Ehlimana\source\repos\KreacijskiPaterni\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.json
+C:\Users\Ehlimana\source\repos\KreacijskiPaterni\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.dev.json
+C:\Users\Ehlimana\source\repos\KreacijskiPaterni\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.dll
+C:\Users\Ehlimana\source\repos\KreacijskiPaterni\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.pdb
+C:\Users\Ehlimana\source\repos\KreacijskiPaterni\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\Ehlimana\source\repos\KreacijskiPaterni\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfo.cs
+C:\Users\Ehlimana\source\repos\KreacijskiPaterni\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\Ehlimana\source\repos\KreacijskiPaterni\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.dll
+C:\Users\Ehlimana\source\repos\KreacijskiPaterni\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.pdb
+C:\Users\Ehlimana\source\repos\KreacijskiPaterni\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.genruntimeconfig.cache
