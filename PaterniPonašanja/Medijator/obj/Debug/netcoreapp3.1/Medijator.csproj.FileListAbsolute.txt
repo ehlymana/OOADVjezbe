@@ -1,0 +1,13 @@
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\Medijator\obj\Debug\netcoreapp3.1\Medijator.csprojAssemblyReference.cache
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\Medijator\obj\Debug\netcoreapp3.1\Medijator.AssemblyInfoInputs.cache
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\Medijator\obj\Debug\netcoreapp3.1\Medijator.AssemblyInfo.cs
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\Medijator\obj\Debug\netcoreapp3.1\Medijator.csproj.CoreCompileInputs.cache
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\Medijator\bin\Debug\netcoreapp3.1\Medijator.exe
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\Medijator\bin\Debug\netcoreapp3.1\Medijator.deps.json
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\Medijator\bin\Debug\netcoreapp3.1\Medijator.runtimeconfig.json
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\Medijator\bin\Debug\netcoreapp3.1\Medijator.runtimeconfig.dev.json
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\Medijator\bin\Debug\netcoreapp3.1\Medijator.dll
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\Medijator\bin\Debug\netcoreapp3.1\Medijator.pdb
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\Medijator\obj\Debug\netcoreapp3.1\Medijator.dll
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\Medijator\obj\Debug\netcoreapp3.1\Medijator.pdb
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\Medijator\obj\Debug\netcoreapp3.1\Medijator.genruntimeconfig.cache

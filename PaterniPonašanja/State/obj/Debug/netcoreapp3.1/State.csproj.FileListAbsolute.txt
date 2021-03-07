@@ -1,0 +1,13 @@
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\State\bin\Debug\netcoreapp3.1\State.exe
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\State\bin\Debug\netcoreapp3.1\State.deps.json
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\State\bin\Debug\netcoreapp3.1\State.runtimeconfig.json
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\State\bin\Debug\netcoreapp3.1\State.runtimeconfig.dev.json
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\State\bin\Debug\netcoreapp3.1\State.dll
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\State\bin\Debug\netcoreapp3.1\State.pdb
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\State\obj\Debug\netcoreapp3.1\State.csprojAssemblyReference.cache
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\State\obj\Debug\netcoreapp3.1\State.AssemblyInfoInputs.cache
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\State\obj\Debug\netcoreapp3.1\State.AssemblyInfo.cs
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\State\obj\Debug\netcoreapp3.1\State.csproj.CoreCompileInputs.cache
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\State\obj\Debug\netcoreapp3.1\State.dll
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\State\obj\Debug\netcoreapp3.1\State.pdb
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\State\obj\Debug\netcoreapp3.1\State.genruntimeconfig.cache

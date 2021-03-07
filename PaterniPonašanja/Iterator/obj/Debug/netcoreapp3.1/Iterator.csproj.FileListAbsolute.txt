@@ -1,0 +1,12 @@
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\Iterator\bin\Debug\netcoreapp3.1\Iterator.exe
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\Iterator\bin\Debug\netcoreapp3.1\Iterator.deps.json
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\Iterator\bin\Debug\netcoreapp3.1\Iterator.runtimeconfig.json
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\Iterator\bin\Debug\netcoreapp3.1\Iterator.runtimeconfig.dev.json
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\Iterator\bin\Debug\netcoreapp3.1\Iterator.dll
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\Iterator\bin\Debug\netcoreapp3.1\Iterator.pdb
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\Iterator\obj\Debug\netcoreapp3.1\Iterator.AssemblyInfoInputs.cache
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\Iterator\obj\Debug\netcoreapp3.1\Iterator.AssemblyInfo.cs
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\Iterator\obj\Debug\netcoreapp3.1\Iterator.csproj.CoreCompileInputs.cache
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\Iterator\obj\Debug\netcoreapp3.1\Iterator.dll
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\Iterator\obj\Debug\netcoreapp3.1\Iterator.pdb
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\Iterator\obj\Debug\netcoreapp3.1\Iterator.genruntimeconfig.cache

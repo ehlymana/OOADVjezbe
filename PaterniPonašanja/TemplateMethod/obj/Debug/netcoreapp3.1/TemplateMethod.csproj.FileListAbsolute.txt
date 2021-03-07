@@ -1,0 +1,13 @@
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.exe
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.deps.json
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.runtimeconfig.json
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.runtimeconfig.dev.json
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.dll
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.pdb
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.csprojAssemblyReference.cache
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.AssemblyInfoInputs.cache
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.AssemblyInfo.cs
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.dll
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.pdb
+C:\Users\Ehlimana\source\repos\PaterniPonašanja\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.genruntimeconfig.cache
