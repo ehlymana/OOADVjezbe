@@ -1,9 +1,0 @@
-C:\Users\Ehlimana\source\repos\ObjektnoOrijentisaniPrincipi\Biblioteka\bin\Debug\netcoreapp3.1\Biblioteka.deps.json
-C:\Users\Ehlimana\source\repos\ObjektnoOrijentisaniPrincipi\Biblioteka\bin\Debug\netcoreapp3.1\Biblioteka.dll
-C:\Users\Ehlimana\source\repos\ObjektnoOrijentisaniPrincipi\Biblioteka\bin\Debug\netcoreapp3.1\Biblioteka.pdb
-C:\Users\Ehlimana\source\repos\ObjektnoOrijentisaniPrincipi\Biblioteka\obj\Debug\netcoreapp3.1\Biblioteka.csprojAssemblyReference.cache
-C:\Users\Ehlimana\source\repos\ObjektnoOrijentisaniPrincipi\Biblioteka\obj\Debug\netcoreapp3.1\Biblioteka.AssemblyInfoInputs.cache
-C:\Users\Ehlimana\source\repos\ObjektnoOrijentisaniPrincipi\Biblioteka\obj\Debug\netcoreapp3.1\Biblioteka.AssemblyInfo.cs
-C:\Users\Ehlimana\source\repos\ObjektnoOrijentisaniPrincipi\Biblioteka\obj\Debug\netcoreapp3.1\Biblioteka.csproj.CoreCompileInputs.cache
-C:\Users\Ehlimana\source\repos\ObjektnoOrijentisaniPrincipi\Biblioteka\obj\Debug\netcoreapp3.1\Biblioteka.dll
-C:\Users\Ehlimana\source\repos\ObjektnoOrijentisaniPrincipi\Biblioteka\obj\Debug\netcoreapp3.1\Biblioteka.pdb
