@@ -13,5 +13,8 @@ Navigacija:
 - branch **lv8** - ASP.NET Core MVC - Pogledi
 - branch **lv9** - ASP.NET Core MVC - Kontrola Pristupa
 - branch **lv10** - ASP.NET Core MVC - Vanjski Uređaji
+- branch **strukturalni-paterni** - Rješenja zadataka za 7 strukturalnih dizajn paterna
+- branch **kreacijski-paterni** - Rješenja zadataka za 5 kreacijskih dizajn paterna
+- branch **paterni-ponasanja** - Rješenja zadataka za 7 paterna ponašanja
 
 (Ažurirano: ak. 2021./2022. godina)
