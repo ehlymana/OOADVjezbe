@@ -11,7 +11,7 @@ using PrvaASPNETAplikacija.Models;
 
 namespace PrvaASPNETAplikacija.Controllers
 {
-    [Authorize]
+    [Authorize(Roles = "Administrator, Korisnik")]
     public class PredmetController : Controller
     {
         private readonly ApplicationDbContext _context;
@@ -22,14 +22,12 @@ namespace PrvaASPNETAplikacija.Controllers
         }
 
         // GET: Predmet
-        [Authorize(Roles = "Administrator, Korisnik")]
         public async Task<IActionResult> Index()
         {
             return View(await _context.Predmet.ToListAsync());
         }
 
         // GET: Predmet/Details/5
-        [Authorize(Roles = "Administrator, Korisnik")]
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
