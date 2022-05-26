@@ -28,7 +28,7 @@ namespace PrvaASPNETAplikacija
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<ApplicationDbContext>(options =>
-                options.UseMySQL(
+                options.UseSqlServer(
                     Configuration.GetConnectionString("DefaultConnection")));
             services.AddDatabaseDeveloperPageExceptionFilter();
 
@@ -42,9 +42,9 @@ namespace PrvaASPNETAplikacija
                     RequireLowercase = false,
                     RequireUppercase = false,
                     RequireNonAlphanumeric = false
-            };
+                };
             }).AddRoles<IdentityRole>()
-              .AddEntityFrameworkStores<ApplicationDbContext>();
+                .AddEntityFrameworkStores<ApplicationDbContext>();
             services.AddControllersWithViews();
         }
 

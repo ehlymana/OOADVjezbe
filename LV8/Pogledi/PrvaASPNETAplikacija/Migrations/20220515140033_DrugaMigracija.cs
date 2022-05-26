@@ -10,19 +10,19 @@ namespace PrvaASPNETAplikacija.Migrations
             migrationBuilder.AddColumn<DateTime>(
                 name: "DatumUpisa",
                 table: "UpisNaPredmet",
-                type: "datetime",
+                type: "datetime2",
                 nullable: false,
                 defaultValue: new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified));
 
             migrationBuilder.AlterColumn<string>(
                 name: "Naziv",
                 table: "Predmet",
-                type: "varchar(50)",
+                type: "nvarchar(50)",
                 maxLength: 50,
                 nullable: false,
                 defaultValue: "",
                 oldClrType: typeof(string),
-                oldType: "text",
+                oldType: "nvarchar(max)",
                 oldNullable: true);
         }
 
@@ -35,10 +35,10 @@ namespace PrvaASPNETAplikacija.Migrations
             migrationBuilder.AlterColumn<string>(
                 name: "Naziv",
                 table: "Predmet",
-                type: "text",
+                type: "nvarchar(max)",
                 nullable: true,
                 oldClrType: typeof(string),
-                oldType: "varchar(50)",
+                oldType: "nvarchar(50)",
                 oldMaxLength: 50);
         }
     }
